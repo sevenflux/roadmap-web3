@@ -1,22 +1,3 @@
-# 区块链开发
-
-## 区块链开发基础
-
-### EVM
-- [WTF-Academy](https://www.wtf.academy/zh/course/solidity101) 
-  -   **学完 Solidity101 - Solidity 103 基本就入门了**
-
-### EVM 相关
-
-笔者推荐: 对于不熟悉 JS/TS 的小伙伴来说, 使用 Foundry 更加推荐,
-
-- [Hardhat 框架学习](https://www.bilibili.com/video/BV1Ca411n7ta/)
-  - 视频内容来源于 [Cyfrin Updapt](https://updraft.cyfrin.io/), 经人工精校翻译的中文版本
-
-- [Foundry 框架学习](https://www.bilibili.com/video/BV13a4y1F7V3/?spm_id_from=333.1387.search.video_card.click)
-  - 视频内容来源于 [Cyfrin Updapt](https://updraft.cyfrin.io/), 经人工精校翻译的中文版本
-
-### SVM 相关
 
 建议
 对于大多数开发者，特别是 Solana 新手，笔者建议从 Anchor 开始：
