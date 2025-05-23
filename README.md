@@ -1,5 +1,5 @@
 <h1 align="center"> 2025 年 区块链行业 从入门到实践 学习教程 <br></h1>
-<p align="center"><strong>学习如何使用区块链入门 以及如何使用 进入区块链行业的开发/运营/BD /市场</strong>
+<p align="center"><strong>学习如何进入区块链行业的开发/运营/市场/产品...</strong>
 </p>
 
 **欢迎加入VitaFlux一起交流～ ➡️ [🍀Telegram频道](https://t.me/+l4rd2K2W1ONlODk9)**
