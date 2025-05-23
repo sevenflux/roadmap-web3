@@ -1,155 +1,28 @@
-<h1 align="center"> 2025 年 VitaFlux & 区块链 从入门到实践 学习教程 <br></h1>
+<h1 align="center"> 2025 年 区块链行业 从入门到实践 学习教程 <br></h1>
 <p align="center"><strong>学习如何使用区块链入门 以及如何使用 进入区块链行业的开发/运营/BD /市场</strong>
 </p>
 
-# 区块链职业学习路线图
+**欢迎加入VitaFlux一起交流～ ➡️ [🍀Telegram频道](https://t.me/+l4rd2K2W1ONlODk9)**
 
-**工欲利其事，必先善其器**
+
+1. [区块链行业入门](./01.区块链基础模块.md)
+2. [合约开发](./02.合约开发.md)
+3. [前端开发](./03.前端开发.md)
+4. [客户端开发](./04.客户端开发.md)
+5. [后端开发](./04.客户端开发.md)
+6. [安全测试](./06.安全测试.md)
+7. [AI](./07.AI.md)
+8. [公链开发](./08.公链开发.md)
+9. [运维](./09.运维.md)
+10. [数据分析](./10.数据分析.md)
+11. [产品](./10.数据分析.md)
+12. [运营](./12.运营.md)
+13. [UI](./13.UI.md)
+14. [开发者关系](./14.开发者关系.md)
+
+
+---
+
+[Web3 行业面试题集合（2025 年最新版）](https://github.com/sevenflux/roadmap-web3/blob/main)
 
 [Web3 开发者工具集合（2025 年最新版）](https://github.com/sevenflux/awesome-devtool)
-
-为了方便朋友们尽快的加入区块链开发，找到一份满意的区块链职业或者Web3创业。
-在 7Flux 社区推行理念的同时，我们也尽可能的 描绘一份从0-1通用的 roadmap。
-
-我们的 roadmap 并不以你以目标工作内容为终点，我们描绘了一个完整的开发者全景图。
-
-针对找工作的朋友，可以边学边找，在实践/实习中学习和进步是最快的方式。
-
-VitaFlux 开发者学习实践教程是模块化的，
-
-## 区块链入门
-
-[区块链基础知识模块](./区块链基础模块.md)
-
----
-## EVM 开发
-
-### 入门
-  1. 这部分内容推荐 WTF Academy Solidity101 - 103
-     - [视频](https://space.bilibili.com/615957867/channel/collectiondetail?sid=1067760 )
-     - [文档](https://www.wtf.academy/zh/course/solidity101)
-  2. 如果你的英文比较好，你也可以选择 
-     - [视频](https://www.youtube.com/@smartcontractprogrammer/)
-     - [文档](https://www.smartcontract.engineer/)
-  
-### 进阶
-  1. 进阶内容就需要使用框架进行开发了，而不是仅限于 Remix
-  2. 目前比较流行的两个框架分别是 Hardhat 和 Foundry, 笔者更推荐 Foundry
-
-  - 目前比较好的 Foundry 课程 是 由 Cyfrin 这家教育公司制作的，内容精良，体系完善。
-  
-  - 视频
-    - 英文版:
-      - [CyfrinUpdraft](https://updraft.cyfrin.io/)
-    - 中文人工精校版
-      - [Solidity智能合约Foundry框架零基础教程1-12课](https://www.bilibili.com/video/BV13a4y1F7V3/?spm_id_from=333.1387.search.video_card.click)
-      - [Solidity智能合约Foundry框架零基础教程13-15课](https://www.bilibili.com/video/BV1u8411k7Z7/?spm_id_from=333.788.recommend_more_video.0)
-  - 文档
-    - https://github.com/Cyfrin/foundry-full-course-cu
-
-  - 项目实战(这套课程自带的几个项目)
-    - [捐赠项目](https://github.com/Cyfrin/foundry-full-course-cu?tab=readme-ov-file#foundry-fundamentals-section-2-foundry-fund-me)
-    - [ERC20 项目](https://github.com/Cyfrin/foundry-full-course-cu?tab=readme-ov-file#advanced-foundry-section-1-foundry-erc20s)
-    - [NTF 项目实战](https://github.com/Cyfrin/foundry-full-course-cu?tab=readme-ov-file#advanced-foundry-section-2-foundry-nfts--moodnft)
-    - [彩票项目](https://github.com/Cyfrin/foundry-full-course-cu?tab=readme-ov-file#foundry-fundamentals-section-4-foundry-smart-contract-lottery)
-    - [稳定币项目](https://github.com/Cyfrin/foundry-full-course-cu?tab=readme-ov-file#advanced-foundry-section-3-foundry-defi--stablecoin-the-pinnacle-project-get-here)
-    - [AA 钱包项目](https://github.com/Cyfrin/foundry-full-course-cu?tab=readme-ov-file#advanced-foundry-section-7-foundry-account-abstraction)
-    - [Token 跨链桥项目(Chainlink CCIP)](https://github.com/Cyfrin/foundry-full-course-cu?tab=readme-ov-file#advanced-foundry-section-4-foundry-cross-chain-rebase-token)
-    - [空投项目](https://github.com/Cyfrin/foundry-full-course-cu?tab=readme-ov-file#advanced-foundry-section-5-foundry-merkle-airdrop-and-signatures)
-    - [可升级合约实战](https://github.com/Cyfrin/foundry-full-course-cu?tab=readme-ov-file#advanced-foundry-section-5-foundry-merkle-airdrop-and-signatures)
-    - [DAO 项目](https://github.com/Cyfrin/foundry-full-course-cu?tab=readme-ov-file#advanced-foundry-section-8-foundry-dao--governance)
-    - [简单的智能合约安全(针对非审计人员,帮助优化你的代码)](https://github.com/Cyfrin/foundry-full-course-cu?tab=readme-ov-file#advanced-foundry-section-9-smart-contract-security--auditing-for-developers)
-
-
-- 其他参考资料
-1. [Solidity 官方文档](https://docs.soliditylang.org/): 人工对一些 `Solidity` 基础变量的定义或语法的使用还不太了解，又不想花太多的时间去看视频教程，那么结合文档进行学习会是一个更不错的选择
-2. [Foundry 官方文档](https://book.getfoundry.sh/): 这是使用 `Foundry` 框架进行 `Solidity` 智能合约开发必须要阅读的资料，同时当你真正开始构建生产级别应用时，可以在其中找到很多教程中并未在提及到的开发技巧和解决错误的方法
-3. [以太坊官网](https://ethereum.org/zh/): 以太坊的官方网站，页面大都进行了中文翻译，对中文开发者非常友好，可以了解到以太坊生态相关的基础知识，路线图和资讯
-
-
-**如何你学有余力，想多学习有个框架，也可以使用hardhat，目前使用 foundry 是一个大趋势**
-
-- [Solidity智能合约Hardhat框架零基础教程](https://www.bilibili.com/video/BV1RFsfe5Ek5/)
-- [配套文档](https://github.com/smartcontractkit/Web3_tutorial_Chinese)
-
-### EVM 智能合约审计
-
-- [智能合约安全审计课程（第1-5课）推荐开发者了解](https://www.bilibili.com/video/BV1B94y1M71V) 
-- [21 小时智能合约安全审计课程（基础知识+案例实战）](https://www.bilibili.com/video/BV1qK4y1i7Zw) 
-
-
----
-## SVM 开发
-
-建议对于大多数开发者，特别是 Solana 新手，笔者建议从 Anchor 开始：
-1. 初学者：Anchor 大大降低了入门门槛，提供了更多安全保障
-2. 中级开发者：使用 Anchor 快速开发，同时学习底层原理
-3. 高级开发者：根据项目需求灵活选择，复杂或高度优化的项目可能需要原生开发
-
-许多成功的 Solana 项目都使用 Anchor，它已成为事实上的标准。随着经验增长，可以逐渐探索原生开发的细节。
-- 原生 Solana
-  1. [Solana 文档](https://docs.solana.com/)
-  2. [Solana 开发者资源](https://solana.com/developers)
-  3. [Solana Cookbook](https://solanacookbook.com)
-- Anchor
-  1. [官方文档](https://www.anchor-lang.com/)
-  2. [Anchor Book](https://book.anchor-lang.com/)
-  3. [Solana Cookbook](https://solanacookbook.com/)
-  4. [Buildspace Solana 课程](https://buildspace.so/solana)
-
-**其他辅助资料**
-
-[Solana 中文大全](https://www.solana-cn.com/SolanaBasic/000.html)
-
-## 系统的智能合约安全教程
-- [SunWeb3Sec](https://github.com/SunWeb3Sec)
-- [智能合约审核清单](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
-- [智能合约安全员路线图](https://github.com/razzorsec/AuditorsRoadmap)
-- [Immunefi 官方学习资料](https://immunefi.com/learn/)
-- [Cyfrin 官方安全课程](https://updraft.cyfrin.io/courses/security)
-
-
-## 黑客松平台汇总
-
-- [VitaFlux](https://t.me/+l4rd2K2W1ONlODk9)
-- [ETHGlobal](https://ethglobal.com/)
-- [Devpost](https://devpost.com/)
-- [DoraHacks](https://dorahacks.io/)
-- [Chainlink Hackathons](https://chain.link/hackathon)
-- [OpenBuild Challenges](https://openbuild.xyz/learn/challenges)
-- [Taikai Network](https://taikai.network/hackathons)
-- [Akindo](https://akindo.io/)
-- [Devfolio](https://devfolio.co/)
-- [HackQuest Hackathons](https://www.hackquest.io/zh-cn/hackathons)
-- [MoleDAO](https://moledao.io/#/gather)
-
-## 面试题
-
-- [Web3 行业面试题集合（2025 年最新版）]()
-
-
-## 加入社区
-
-- ### [VitaFlux](https://t.me/+l4rd2K2W1ONlODk9)
-
-其他开发者社区:
-
-- [Openbuild](https://space.bilibili.com/483336099)
-- [TinTinLand](https://space.bilibili.com/1152852334)
-- [Chainlink预言机](https://space.bilibili.com/482973600)
-- [DappLearning](https://space.bilibili.com/2145417872/)
-- [DoraHacks](https://space.bilibili.com/445312136/)
-- [登链社区](https://space.bilibili.com/581611011)
-- [HackQuest](www.hackquest.io)
-- [Rebase](https://space.bilibili.com/382886213) 
-
-
-**参考**
-
-- https://roadmap.sh/blockchain
-- https://learnblockchain.cn/maps/Roadmap
-- https://www.rareskills.io/
-- https://updraft.cyfrin.io/
-- https://www.smartcontract.engineer/
-- https://github.com/Luboy23/foundry_advanced_turtorial/
-
