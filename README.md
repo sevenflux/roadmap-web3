@@ -1,4 +1,4 @@
-<h1 align="center"> 2025 年 区块链行业 从入门到实践 学习教程 <br></h1>
+<h1 align="center"> 区块链行业从入门到实践教程 (2025 年 最新版) <br></h1>
 <p align="center"><strong>学习如何进入区块链行业的开发/运营/市场/产品...</strong>
 </p>
 
