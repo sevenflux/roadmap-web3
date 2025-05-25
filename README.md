@@ -26,6 +26,6 @@ _开发相关岗位教程或多或少都需要学习 [计算机基础](./0.计�
 
 ---
 
-[Web3 行业面试题集合（2025 年最新版）](https://github.com/sevenflux/roadmap-web3/blob/main)
+[Web3 行业面试题集合（2025 年最新版）](https://github.com/sevenflux/interview-web3-ai)
 
 [Web3 开发者工具集合（2025 年最新版）](https://github.com/sevenflux/awesome-devtool)
