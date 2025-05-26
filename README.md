@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg" alt="License: CC BY-SA 4.0"></a>
-  <a href="https://t.me/+04_gJoUytQo0MjBl"><img src="https://img.shields.io/badge/Community-VitaFlux%20on%20Telegram-blue.svg" alt="VitaFlux Telegram Community"></a>
+  <a href="https://t.me/+04_gJoUytQo0MjBl"><img src="https://img.shields.io/badge/Telegram-VitaFlux%20Community-blue.svg" alt="VitaFlux on Telegram"></a>
 </p>
 
 ---
@@ -38,27 +38,19 @@
 *   希望**系统学习 Web3 知识**并了解如何在 Web3 领域找到技术岗位的开发者。
 *   无论您是 Web3 的初学者，还是已经进行了一些探索，只要您有志于在 Web3 领域发展职业生涯，这里都有您需要的内容。
 
-## ✨ 指南特色
-
-*   **求职为导向：** 紧密围绕“找到满意的 Web3 工作”这一核心目标组织内容。
-*   **结构化路径：** 包含“公共基础知识”和针对不同 Web2 背景的“岗位细分转型路径”。
-*   **实战性强：** 强调项目实践，提供作品集构建建议。
-*   **社区驱动：** 内容由 **VitaFlux 社区**共同创建和维护，持续更新，紧跟行业发展。
-*   **开放共享：** 所有内容均在 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可下发布，鼓励传播和贡献。
-
 ## 🚀 如何开始
 
-1.  **熟悉核心知识：** 从[第一部分：Web3 技术基石](./01-web3-core-knowledge/)开始，打下坚实的 Web3 基础。这部分内容是所有转型者都应该掌握的。
-2.  **选择转型路径：** 根据您当前的 Web2 技术背景和职业兴趣，在[第二部分：岗位精进 — 从 Web2 到 Web3 的技能升级](./02-role-specific-paths/)中选择适合您的细分学习路径。
+1.  **熟悉核心知识：** 从[第一部分：Web3 技术基石](./01-web3-core-knowledge)开始，打下坚实的 Web3 基础。这部分内容是所有转型者都应该掌握的。
+2.  **选择转型路径：** 根据您当前的 Web2 技术背景和职业兴趣，在[第二部分：岗位精进 — 从 Web2 到 Web3 的技能升级](./02-role-specific-paths)中选择适合您的细分学习路径。
 3.  **准备面试：** 想要了解更多 Web3 面试相关问题，请访问 [VitaFlux 社区 Web3 & AI 面试题集合](https://github.com/sevenflux/interview-web3-ai)。
 
 ## 💬 加入 VitaFlux 社区
 
-遇到问题？有新的想法？想和其他学习者交流？欢迎加入我们的 VitaFlux Telegram 社群：
+遇到问题？有新的想法？想和其他学习者交流？欢迎加入我们的 VitaFlux Telegram 群组：
 
-➡️ **[VitaFlux Telegram 社群](https://t.me/+04_gJoUytQo0MjBl)**
+➡️ **[VitaFlux Telegram 群组](https://t.me/+04_gJoUytQo0MjBl)**
 
-在 VitaFlux 社区，您可以：
+在 VitaFlux，您可以：
 *   提出您在学习过程中遇到的问题。
 *   分享您的学习经验和项目成果。
 *   与其他 Web3 爱好者和开发者交流。
