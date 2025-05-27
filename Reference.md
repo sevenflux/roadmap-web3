@@ -1,0 +1,15 @@
+**参考资料：** 
+
+1. [小林Coding](xiaolincoding.com)
+2. [北京大学肖臻](http://zhenxiao.com/blockchain/)
+3. [区块链式例](https://andersbrownworth.com/blockchain/)
+4. [Roadmap](https://roadmap.sh/blockchain)
+5. [登链社区Roadmap](https://learnblockchain.cn/maps/Roadmap)
+6. [rareskills](https://www.rareskills.io/)
+7. [cyfrin](https://updraft.cyfrin.io/)
+8. [smartcontract](https://www.smartcontract.engineer/)
+9. [foundry_advanced_turtorial](https://github.com/Luboy23/foundry_advanced_turtorial/)
+10. [golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap)
+11. [Golang-Roadmap](https://github.com/baselrabia/Golang-Roadmap)
+12. [拓跋阿秀学习路线](https://interviewguide.cn/notes/02-learning_route/02-language/01-C++.html)
+13. [字节跳动青训营go语言学习路线图](https://bytedance.larkoffice.com/docx/ImEMdZf8SoNevVxTjaxc6FuUnT2)

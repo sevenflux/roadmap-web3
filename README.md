@@ -2,13 +2,42 @@
 <p align="center"><strong>学习如何进入区块链行业的开发/运营/市场/产品...</strong>
 </p>
 
+## VitaFlux
 
-**欢迎加入VitaFlux一起交流～ ➡️ [🍀Telegram频道](https://t.me/+l4rd2K2W1ONlODk9)**
+<div align=center><img src="./image/VitaFluxLogo.png" alt="VitaFlux" width="375" /></div>
 
-_开发相关岗位教程或多或少都需要学习 [计算机基础](./0.计算机基础.md), 可以搭配你的方向在实践过程中学习_
+**VitaFlux**：由 Qi Capital 发起，面向全球高校学生与Web3爱好者，打造 Web3 × AI × 新金融的创新融合社区.
+
+### 核心支持
+
+1️⃣ 技术赋能：Solidity、跨链协议、DAO 治理、AI+区块链课程等
+
+2️⃣ 项目孵化：提供种子资金、技术指导（支持 DeFi、NFT、RWA）等
+
+3️⃣ 资源对接：依托 Qi Capital 资金池，链接全球机构
+
+4️⃣ 职业支持：设有专属求职板块，帮助寻找Web3 实习与就业机会
+
+欢迎加入VitaFlux一起交流～ ➡️ [🍀Telegram频道](https://t.me/+l4rd2K2W1ONlODk9)
+
+**与我们一起探索未来，创造可能！**
+
+#### [Web3 行业面试题集合（2025 年最新版）](https://github.com/sevenflux/interview-web3-ai)
+
+#### [Web3 开发者工具集合（2025 年最新版）](https://github.com/sevenflux/awesome-devtool)
+
+## 项目说明
+
+本项目的初衷是为大家提供一个方便查阅、社区共建、真实有温度的 区块链行业路线图
+
+项目目录按照 **岗位类别 -> 细分类型** 的结构设置
+
+### 目录
+
+_开发相关岗位教程或多或少都需要学习 [计算机基础](./0.计算机基础.md) , 可以搭配你的方向在实践过程中学习_
 
 1. [计算机基础](./0.计算机基础.md)
-2. [区块链行业入门](./01.区块链基础模块.md)
+2. [区块链基础模块](./01.区块链基础模块.md)
 3. [合约开发](./02.合约开发.md)
 4. [前端开发](./03.前端开发.md)
 5. [客户端开发](./04.客户端开发.md)
@@ -23,9 +52,19 @@ _开发相关岗位教程或多或少都需要学习 [计算机基础](./0.计�
 14. [UI](./13.UI.md)
 15. [开发者关系](./14.开发者关系.md)
 
-
 ---
+## PR说明
 
-[Web3 行业面试题集合（2025 年最新版）](https://github.com/sevenflux/interview-web3-ai)
+👏欢迎提交PR，一起分享学习经验，共同进步
 
-[Web3 开发者工具集合（2025 年最新版）](https://github.com/sevenflux/awesome-devtool)
+PR格式无要求，请随心写❤️
+
+Roadmap  内容来源广泛，如果存在错误请指正
+
+如果对PR不熟悉，可以加入 [🍀VitaFlux Telegram频道](https://t.me/+l4rd2K2W1ONlODk9)，在协作角联系社区工作人员代替上传。
+
+## 参考项目/资料
+
+本项目内容链接来自网络，经过整理、部分修改和完善，若有侵权，请联系删除
+
+**说明**：由于链接太多太多，放在这里会很乱，全部统一放到了`Reference.md`中。
