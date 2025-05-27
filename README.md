@@ -72,7 +72,7 @@
 
 ## 💬 加入 VitaFlux 社区
 
-遇到问题？有新的想法？想和其他学习者交流？欢迎加入我们的 VitaFlux Telegram 群组：
+遇到问题？有新的想法？想和其他学习者交流？欢迎加入我们的 Telegram 群组：
 
 ➡️ **[VitaFlux Telegram 群组](https://t.me/+04_gJoUytQo0MjBl)**
 
