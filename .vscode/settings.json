@@ -1,0 +1,9 @@
+{
+    "files.insertFinalNewline": true,
+    "files.autoSave": "onFocusChange",
+    "[markdown]": {
+        "editor.quickSuggestions": {
+            "other": "on"
+        }
+    }
+}
