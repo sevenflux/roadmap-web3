@@ -1,4 +1,4 @@
-# 路径：DApp 前端工程师
+# DApp 前端工程师
 
 ## 🚀 典型职责
 
@@ -50,3 +50,7 @@ DApp 前端工程师的典型职责包括：
 
 *   ➡️ **[详细学习规划](./01-targeted-learning-path.md)：** 系统学习 Ethers.js/Web3.js、钱包集成、状态管理及与智能合约交互的最佳实践。
 *   ➡️ **[实战项目建议](./02-portfolio-projects.md)：** 动手构建 DApp 前端项目，打造有竞争力的作品集。
+
+---
+
+有疑问？欢迎随时回到 [VitaFlux 社区](https://t.me/+04_gJoUytQo0MjBl)交流。

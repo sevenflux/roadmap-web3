@@ -1,4 +1,4 @@
-# 路径：Web3 基础设施/DevOps 工程师
+# Web3 基础设施/DevOps 工程师
 
 ## 🚀 典型职责
 
@@ -65,3 +65,7 @@ Web3 基础设施/DevOps 工程师的典型职责包括：
 
 *   ➡️ **[详细学习规划](./01-targeted-learning-path.md)：** 学习主流区块链节点的部署维护、Web3 环境的 CI/CD 实践、去中心化网络监控及安全考量。
 *   ➡️ **[实战项目建议](./02-portfolio-projects.md)：** 动手搭建和监控测试网节点、为 DApp 实现自动化部署流水线，掌握 Web3 运维核心技能。
+
+---
+
+有疑问？欢迎随时回到 [VitaFlux 社区](https://t.me/+04_gJoUytQo0MjBl)交流。

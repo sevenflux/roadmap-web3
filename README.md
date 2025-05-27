@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="assets/VitaFluxLogo.png" alt="VitaFlux Community Logo" width="150"/>
+    <img src="assets/VitaFluxLogo.png" alt="VitaFlux Community Logo" width="150"/>
 </p>
 
 <h1 align="center">Web3 职业转型指南</h1>
 <p align="center"><em>由 VitaFlux 社区倾力打造</em></p>
 
 <p align="center">
-  <strong>赋能 Web2 专业人士，扬帆 Web3 新纪元，助您成功找到并胜任理想的 Web3 职业！</strong>
+    <strong>赋能 Web2 专业人士，扬帆 Web3 新纪元，助您成功找到并胜任理想的 Web3 职业！</strong>
 </p>
 
 <p align="center">
-  <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg" alt="License: CC BY-SA 4.0"></a>
-  <a href="https://t.me/+04_gJoUytQo0MjBl"><img src="https://img.shields.io/badge/Telegram-VitaFlux%20Community-blue.svg" alt="VitaFlux on Telegram"></a>
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg" alt="License: CC BY-SA 4.0"></a>
+    <a href="https://t.me/+04_gJoUytQo0MjBl"><img src="https://img.shields.io/badge/Telegram-VitaFlux%20Community-blue.svg" alt="VitaFlux on Telegram"></a>
 </p>
 
 ---
 
 ## 📖 关于本项目与 VitaFlux 社区
 
-**《Web3职业转型指南》** 是一个由 **VitaFlux 社区**驱动的开放项目。VitaFlux 是一个充满活力的社区，致力于帮助来自 Web2 各行各业的专业人士学习、成长并成功过渡到去中心化未来。
+**《Web3 职业转型指南》** 是一个由 **VitaFlux 社区**驱动的开放项目。VitaFlux 是一个充满活力的社区，致力于帮助来自 Web2 各行各业的专业人士学习、成长并成功过渡到去中心化未来。
 
 我们深知从 Web2 转向 Web3 的挑战与机遇。因此，VitaFlux 社区发起了这个指南项目，旨在系统性地梳理 Web3 的核心知识、不同职业路径的转型策略以及实战经验建议。我们希望通过这份由社区共同创建和维护的指南，最终帮助您顺利进入 Web3 行业，找到心仪的工作，并在这个充满活力的生态中与 VitaFlux 社区一同持续成长。
 
@@ -44,31 +44,31 @@
 
 *   **[第一部分：Web3 通用基础知识](./01-web3-core-knowledge/)**
     *   区块链核心原理
-    *   加密货币与数字钱包
-    *   智能合约基础与应用场景
-    *   Web3 生态系统关键组成 (DeFi, NFT, DAO, Layer2 等)
-    *   Web3 技术栈与工具概览
-    *   Web3 安全基础
+    *   数字资产与数字钱包
+    *   智能合约与去中心化应用
+    *   Web3 生态系统关键组成
+    *   Web3 安全与风险
+    *   如何与 Web3 交互
 *   **[第二部分：职业精进 — 从 Web2 到 Web3 的转型路径](./02-role-specific-paths/)**
-    *   **[技术与工程岗位](./02-role-specific-paths/01-developer-engineer-paths/)**
-        *   [DApp 前端工程师](./02-role-specific-paths/01-developer-engineer-paths/01-dapp-frontend-developer/)
-        *   [智能合约工程师](./02-role-specific-paths/01-developer-engineer-paths/02-smart-contract-engineer/)
-        *   [Web3 全栈工程师](./02-role-specific-paths/01-developer-engineer-paths/03-fullstack-web3-developer/)
-        *   [Web3 基础设施/DevOps 工程师](./02-role-specific-paths/01-developer-engineer-paths/04-web3-infrastructure-devops-engineer/)
-        *   [Web3 安全工程师 / 智能合约审计师](./02-role-specific-paths/01-developer-engineer-paths/05-web3-security-auditor-engineer/)
-        *   [Web3 数据工程师/分析师](./02-role-specific-paths/01-developer-engineer-paths/06-web3-data-engineer-analyst/)
-        *   [区块链核心/协议工程师](./02-role-specific-paths/01-developer-engineer-paths/07-core-blockchain-protocol-engineer/)
-        *   [AI + Web3 工程师](./02-role-specific-paths/01-developer-engineer-paths/08-ai-web3-engineer/)
-    *   **[产品与项目管理岗位](./02-role-specific-paths/02-product-project-management-paths/)**
-        *   [Web3 产品经理](./02-role-specific-paths/02-product-project-management-paths/01-web3-product-manager)
-        *   [Web3 项目经理](./02-role-specific-paths/02-product-project-management-paths/02-web3-project-manager)
-    *   **[市场与社区运营岗位](./02-role-specific-paths/03-marketing-community-paths/)**
-        *   [Web3 市场营销专家](./02-role-specific-paths/03-marketing-community-paths/01-web3-marketing-specialist/)
-        *   [Web3 社区经理](./02-role-specific-paths/03-marketing-community-paths/02-web3-community-manager/)
-    *   **[设计与用户体验岗位](./02-role-specific-paths/04-design-ux-ui-paths/)**
-        *   [Web3 UX/UI 设计师](./02-role-specific-paths/04-design-ux-ui-paths/01-web3-ux-ui-designer/)
-    *   **[研究与分析岗位](./02-role-specific-paths/05-research-analysis-paths/)**
-        *   [Web3 研究员/分析师](./02-role-specific-paths/05-business-legal-research-paths/01-web3-researcher-analyst/)
+    *   **技术与工程岗位**
+        *   DApp 前端工程师
+        *   智能合约工程师
+        *   Web3 全栈工程师
+        *   Web3 基础设施/DevOps 工程师
+        *   Web3 安全工程师 / 智能合约审计师
+        *   Web3 数据工程师/分析师
+        *   区块链核心/协议工程师
+        *   AI + Web3 工程师
+    *   **产品与项目管理岗位**
+        *   Web3 产品经理
+        *   Web3 项目经理
+    *   **市场与社区运营岗位**
+        *   Web3 市场营销专家
+        *   Web3 社区经理
+    *   **设计与用户体验岗位**
+        *   Web3 UX/UI 设计师
+    *   **研究与分析岗位**
+        *   Web3 研究员/分析师
 
 ## 💬 加入 VitaFlux 社区
 

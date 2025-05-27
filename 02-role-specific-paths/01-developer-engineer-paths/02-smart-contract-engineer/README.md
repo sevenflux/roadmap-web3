@@ -1,4 +1,4 @@
-# 路径：智能合约工程师
+# 智能合约工程师
 
 ## 🚀 典型职责
 
@@ -51,3 +51,7 @@
 
 *   ➡️ **[详细学习规划](./01-targeted-learning-path.md)：** 深入学习 Solidity 语言、EVM 原理、合约设计模式、安全防范、Gas 优化及主流开发框架。
 *   ➡️ **[实战项目建议](./02-portfolio-projects.md)：** 从基础到复杂，动手实现 Token、NFT 及简单 DeFi 协议，巩固知识并展示能力。
+
+---
+
+有疑问？欢迎随时回到 [VitaFlux 社区](https://t.me/+04_gJoUytQo0MjBl)交流。

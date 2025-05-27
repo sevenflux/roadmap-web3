@@ -1,0 +1,22 @@
+# 技术与工程岗位
+
+*   **[DApp 前端工程师](./01-dapp-frontend-developer/)**
+    *   将 Web2 前端技能应用于去中心化应用的用户界面构建。
+*   **[智能合约工程师](./02-smart-contract-engineer/)**
+    *   负责区块链上核心业务逻辑的编写，注重安全与效率。
+*   **[Web3 全栈工程师](./03-fullstack-web3-developer/)**
+    *   能够端到端地构建 Web3 应用，整合前端与智能合约。
+*   **[Web3 基础设施/DevOps 工程师](./04-web3-infrastructure-devops-engineer/)**
+    *   保障区块链节点与去中心化应用服务的稳定高效运行。
+*   **[Web3 安全工程师 / 智能合约审计师](./05-web3-security-auditor-engineer/)**
+    *   识别和防范 Web3 项目中的安全漏洞，守护数字资产安全。
+*   **[Web3 数据工程师/分析师](./06-web3-data-engineer-analyst/)**
+    *   从事链上数据提取、处理、分析与可视化，为决策提供洞察。
+*   **[区块链核心/协议工程师](./07-core-blockchain-protocol-engineer/)**
+    *   参与区块链底层协议的设计与实现，通常需要深厚的计算机科学背景。
+*   **[AI + Web3 工程师](./08-ai-web3-engineer/)**
+    *   探索人工智能与区块链技术的结合点，构建创新应用。
+
+---
+
+有疑问？欢迎随时回到 [VitaFlux 社区](https://t.me/+04_gJoUytQo0MjBl)交流。
