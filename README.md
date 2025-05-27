@@ -2,7 +2,7 @@
     <img src="assets/VitaFluxLogo.png" alt="VitaFlux Community Logo" width="150"/>
 </p>
 
-<h1 align="center">Web3 职业转型指南</h1>
+<h1 align="center">Web3 职业启航指南</h1>
 <p align="center"><em>由 VitaFlux 社区倾力打造</em></p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 📖 关于本项目与 VitaFlux 社区
 
-**《Web3 职业转型指南》** 是由 **VitaFlux 社区**驱动的开放项目。VitaFlux 是由 Qi Capital 发起的 Web3 × AI × 新金融的创新融合社区。
+**《Web3 职业启航指南》** 是由 **VitaFlux 社区**驱动的开放项目。VitaFlux 是由 Qi Capital 发起的 Web3 × AI × 新金融的创新融合社区。
 
 我们深知从 Web2 转向 Web3 的挑战与机遇。因此，VitaFlux 社区发起了这个指南项目，旨在系统性地梳理 Web3 的核心知识、不同职业路径的转型策略以及实战经验建议。我们希望通过这份由社区共同创建和维护的指南，最终帮助您顺利进入 Web3 行业，找到心仪的工作，并在这个充满活力的生态中与 VitaFlux 社区一同持续成长。
 
@@ -37,7 +37,7 @@
 ## 🚀 如何开始
 
 1.  **掌握通用基础：** 从[第一部分：Web3 通用基础知识](./01-web3-core-knowledge/)开始，打下所有 Web3 从业者都应具备的核心知识基础。
-2.  **选择您的转型方向：** 根据您当前的 Web2 职业背景、个人兴趣和未来规划，在[第二部分：职业精进 — 从 Web2 到 Web3 的转型路径](./02-role-specific-paths/)中选择适合您的细分转型路径。
+2.  **选择您的转型方向：** 根据您当前的 Web2 职业背景、个人兴趣和未来规划，在[第二部分：从 Web2 到 Web3 的转型路径](./02-role-specific-paths/)中选择适合您的细分转型路径。
 3.  **准备面试：** 想要了解更多 Web3 面试相关问题，请访问 [VitaFlux 社区 Web3 & AI 面试题集合](https://github.com/sevenflux/interview-web3-ai)。
 
 ## 🗺️ 目录概览
@@ -49,7 +49,7 @@
     *   Web3 生态系统关键组成
     *   Web3 安全与风险
     *   如何与 Web3 交互
-*   **[第二部分：职业精进 — 从 Web2 到 Web3 的转型路径](./02-role-specific-paths/)**
+*   **[第二部分：从 Web2 到 Web3 的转型路径](./02-role-specific-paths/)**
     *   **技术与工程岗位**
         *   DApp 前端工程师
         *   智能合约工程师
