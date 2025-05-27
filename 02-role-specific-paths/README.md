@@ -1,41 +1,34 @@
-# 第二部分：岗位精进 — 从 Web2 到 Web3 的技能升级
-
-本部分旨在帮助您：
-
-*   **明确转型方向：** 了解不同 Web3 技术岗位的职责、所需技能以及市场需求。
-*   **构建专业技能：** 针对所选的 Web3 岗位，学习相关的核心技术、工具和最佳实践。
-*   **积累实战经验：** 通过建议的项目来实践所学知识，并开始构建您的 Web3 作品集。
-
-我们相信，结合您在 Web2 领域积累的宝贵经验，再辅以本部分提供的针对性指导，您将能更高效地完成技能升级，为进入 Web3 行业做好充分准备。
+# 第二部分：职业精进 — 从 Web2 到 Web3 的转型路径
 
 ## 🚀 如何使用本部分
 
-1.  **选择您的路径：** 请根据您当前的 Web2 技术背景、个人兴趣以及职业发展规划，从下方选择最适合您的转型路径。
-2.  **深入学习：** 点击进入相应路径的文件夹，您会找到该岗位的详细介绍、学习规划和项目建议。
-3.  **动手实践：** 理论学习固然重要，但 Web3 更强调实践。请务必动手完成推荐的项目，这将是您求职时的重要加分项。
+1.  **选择类别：** 根据您的职业背景和兴趣，选择一个主要的职业类别。
+2.  **细选路径：** 在该类别下，选择最适合您的具体转型路径。
+3.  **深入学习：** 点击进入路径文件夹，获取岗位详细介绍、学习规划与项目/案例建议。
+4.  **动手实践：** 务必完成推荐的项目或案例分析，实践是您求职时的重要加分项。
 
-## 🛠️ Web3 职业转型路径
+## 🛠️ Web3 职业转型路径概览
 
-1.  **[DApp 前端工程师](./01-dapp-frontend-developer)**
-    *   *适合人群：Web2 前端工程师*
-    *   *核心关注：构建用户友好的去中心化应用界面，与智能合约和钱包交互。*
-
-2.  **[智能合约工程师](./02-smart-contract-engineer)**
-    *   *适合人群：Web2 后端工程师，对底层逻辑和安全性感兴趣的开发者。*
-    *   *核心关注：设计、开发、测试和部署安全高效的智能合约。*
-
-3.  **[Web3 全栈工程师](./03-fullstack-web3-developer)**
-    *   *适合人群：Web2 全栈工程师，或希望打通 Web3 前后端的开发者。*
-    *   *核心关注：能够端到端地开发和部署 DApp，连接用户界面、智能合约及可能的链下服务。*
-
-4.  **[Web3 基础设施/DevOps 工程师](./04-web3-infrastructure-devops-engineer)**
-    *   *适合人群：Web2 DevOps 工程师、SRE、系统工程师。*
-    *   *核心关注：保障 Web3 应用和协议的稳定运行，包括节点运维、网络监控、自动化部署等。*
-
-5.  **[Web3 安全工程师 / 智能合约审计师](./05-web3-security-auditor-engineer)**
-    *   *适合人群：Web2 QA 工程师 (具备代码审计能力)、Web2 安全工程师，或对 Web3 安全有浓厚兴趣的开发者。*
-    *   *核心关注：保障 Web3 项目的安全性，发现并修复智能合约及相关基础设施的潜在漏洞。*
+*   **[技术与工程岗位](./01-developer-engineer-paths/)**
+    *   [DApp 前端工程师](./01-developer-engineer-paths/01-dapp-frontend-developer/)：将 Web2 前端技能应用于去中心化应用的用户界面构建。
+    *   [智能合约工程师](./01-developer-engineer-paths/02-smart-contract-engineer/)：负责区块链上核心业务逻辑的编写，注重安全与效率。
+    *   [Web3 全栈工程师](./01-developer-engineer-paths/03-fullstack-web3-developer/)：能够端到端地构建 Web3 应用，整合前端与智能合约。
+    *   [Web3 基础设施/DevOps 工程师](./01-developer-engineer-paths/04-web3-infrastructure-devops-engineer/)：保障区块链节点与去中心化应用服务的稳定高效运行。
+    *   [Web3 安全工程师 / 智能合约审计师](./01-developer-engineer-paths/05-web3-security-auditor-engineer/)：识别和防范 Web3 项目中的安全漏洞，守护数字资产安全。
+    *   [Web3 数据工程师/分析师](./01-developer-engineer-paths/06-web3-data-engineer-analyst/)：从事链上数据提取、处理、分析与可视化，为决策提供洞察。
+    *   [区块链核心/协议工程师](./01-developer-engineer-paths/07-core-blockchain-protocol-engineer/)：参与区块链底层协议的设计与实现，通常需要深厚的计算机科学背景。
+    *   [AI + Web3 工程师](./01-developer-engineer-paths/08-ai-web3-engineer/)：探索人工智能与区块链技术的结合点，构建创新应用。
+*   **[产品与项目管理岗位](./02-product-project-management-paths/)**
+    *   [Web3 产品经理](./02-product-project-management-paths/01-web3-product-manager)：定义 Web3 产品方向，理解 Tokenomics 和用户需求。
+    *   [Web3 项目经理](./02-product-project-management-paths/02-web3-project-manager)：管理 Web3 项目生命周期，协调团队资源。
+*   **[市场与社区运营岗位](./03-marketing-community-paths/)**
+    *   [Web3 市场营销专家](./03-marketing-community-paths/01-web3-marketing-specialist/)：在去中心化世界中进行品牌推广和用户增长。
+    *   [Web3 社区经理](./03-marketing-community-paths/02-web3-community-manager/)：构建和维护活跃的 Web3 社区生态。
+*   **[设计与用户体验岗位](./04-design-ux-ui-paths/)**
+    *   [Web3 UX/UI 设计师](./04-design-ux-ui-paths/01-web3-ux-ui-designer/)：为 DApp 和 Web3 产品设计直观且用户友好的界面。
+*   **[研究与分析岗位](./05-research-analysis-paths/)**
+    *   [Web3 研究员/分析师](./05-business-legal-research-paths/01-web3-researcher-analyst/)：深入研究 Web3 市场、协议、经济模型并提供专业分析。
 
 ---
 
-选择一条路径，开始您的 Web3 技能精进之旅！如果您在学习过程中有任何疑问，欢迎随时回到 [VitaFlux 社区](https://t.me/+04_gJoUytQo0MjBl)进行交流。
+有疑问？欢迎随时回到 [VitaFlux 社区](https://t.me/+04_gJoUytQo0MjBl)交流。

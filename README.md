@@ -6,7 +6,7 @@
 <p align="center"><em>由 VitaFlux 社区倾力打造</em></p>
 
 <p align="center">
-  <strong>赋能 Web2 从业者，扬帆 Web3 新纪元，助您成功找到并胜任理想的 Web3 工作！</strong>
+  <strong>赋能 Web2 专业人士，扬帆 Web3 新纪元，助您成功找到并胜任理想的 Web3 职业！</strong>
 </p>
 
 <p align="center">
@@ -16,35 +16,59 @@
 
 ---
 
-## 📖 关于本指南与 VitaFlux 社区
+## 📖 关于本项目与 VitaFlux 社区
 
-**《Web3 职业转型指南》** 是一个由 **VitaFlux 社区**驱动的开放知识库。VitaFlux 是一个充满活力的社区，致力于帮助成员学习、成长并成功过渡到 Web3 领域。
+**《Web3职业转型指南》** 是一个由 **VitaFlux 社区**驱动的开放项目。VitaFlux 是一个充满活力的社区，致力于帮助来自 Web2 各行各业的专业人士学习、成长并成功过渡到去中心化未来。
 
-我们深知从 Web2 转向 Web3 的挑战与机遇。因此，VitaFlux 社区创建了这个指南，旨在系统性地梳理 Web3 的核心知识、不同技术岗位的转型路径以及实战项目建议。我们希望通过这份由社区共同创建和维护的指南，最终帮助您顺利进入 Web3 行业，找到心仪的工作，并在这个充满活力的生态中与 VitaFlux 社区一同持续成长。
-
-## 🎯 本指南的目标
-
-*   **清晰化学习路径：** 提供从 Web3 基础知识到特定岗位技能的结构化学习路线。
-*   **促进项目实践：** 鼓励并指导学习者通过动手实践来巩固知识，并构建有说服力的个人项目。
-*   **依托 VitaFlux 社区：** 为学习者提供交流、答疑、协作和共同成长的平台。
-*   **降低转型门槛：** 让更多优秀的 Web2 开发者能够平滑过渡，为 Web3 生态注入新的活力。
+我们深知从 Web2 转向 Web3 的挑战与机遇。因此，VitaFlux 社区发起了这个指南项目，旨在系统性地梳理 Web3 的核心知识、不同职业路径的转型策略以及实战经验建议。我们希望通过这份由社区共同创建和维护的指南，最终帮助您顺利进入 Web3 行业，找到心仪的工作，并在这个充满活力的生态中与 VitaFlux 社区一同持续成长。
 
 ## 👥 目标读者
 
-TODO: 非技术人群
+本指南面向所有对 Web3 行业充满兴趣，并希望在其中发展职业生涯的 **Web2 专业人士**，包括但不限于：
 
-本指南主要面向以下人群：
+*   **技术岗：** 前端工程师、后端工程师、全栈工程师、DevOps 工程师、QA 工程师、数据分析师等。
+*   **产品/项目岗：** 产品经理、项目经理、业务分析师等。
+*   **设计岗：** UX/UI 设计师、交互设计师、视觉设计师等。
+*   **市场/运营岗：** 市场营销、品牌推广、社区运营、增长专家等。
+*   **其他专业岗：** 法务、合规、研究员、分析师等。
 
-*   拥有一定经验的 **Web2 前端、后端、全栈、DevOps 或 QA 工程师**。
-*   对 Web3 技术（如区块链、智能合约、DApps）抱有浓厚兴趣，并**计划转型进入 Web3 行业**的开发者。
-*   希望**系统学习 Web3 知识**并了解如何在 Web3 领域找到技术岗位的开发者。
-*   无论您是 Web3 的初学者，还是已经进行了一些探索，只要您有志于在 Web3 领域发展职业生涯，这里都有您需要的内容。
+无论您是 Web3 的初学者，还是已经有所探索，只要您有志于在 Web3 领域发展职业生涯，这里都有您需要的内容。
 
 ## 🚀 如何开始
 
-1.  **熟悉核心知识：** 从[第一部分：Web3 技术基石](./01-web3-core-knowledge)开始，打下坚实的 Web3 基础。这部分内容是所有转型者都应该掌握的。
-2.  **选择转型路径：** 根据您当前的 Web2 技术背景和职业兴趣，在[第二部分：岗位精进 — 从 Web2 到 Web3 的技能升级](./02-role-specific-paths)中选择适合您的细分学习路径。
+1.  **掌握通用基础：** 从[第一部分：Web3 通用基础知识](./01-web3-core-knowledge/)开始，打下所有 Web3 从业者都应具备的核心知识基础。
+2.  **选择您的转型方向：** 根据您当前的 Web2 职业背景、个人兴趣和未来规划，在[第二部分：职业精进 — 从 Web2 到 Web3 的转型路径](./02-role-specific-paths/)中选择适合您的细分转型路径。
 3.  **准备面试：** 想要了解更多 Web3 面试相关问题，请访问 [VitaFlux 社区 Web3 & AI 面试题集合](https://github.com/sevenflux/interview-web3-ai)。
+
+## 🗺️ 目录概览
+
+*   **[第一部分：Web3 通用基础知识](./01-web3-core-knowledge/)**
+    *   区块链核心原理
+    *   加密货币与数字钱包
+    *   智能合约基础与应用场景
+    *   Web3 生态系统关键组成 (DeFi, NFT, DAO, Layer2 等)
+    *   Web3 技术栈与工具概览
+    *   Web3 安全基础
+*   **[第二部分：职业精进 — 从 Web2 到 Web3 的转型路径](./02-role-specific-paths/)**
+    *   **[技术与工程岗位](./02-role-specific-paths/01-developer-engineer-paths/)**
+        *   [DApp 前端工程师](./02-role-specific-paths/01-developer-engineer-paths/01-dapp-frontend-developer/)
+        *   [智能合约工程师](./02-role-specific-paths/01-developer-engineer-paths/02-smart-contract-engineer/)
+        *   [Web3 全栈工程师](./02-role-specific-paths/01-developer-engineer-paths/03-fullstack-web3-developer/)
+        *   [Web3 基础设施/DevOps 工程师](./02-role-specific-paths/01-developer-engineer-paths/04-web3-infrastructure-devops-engineer/)
+        *   [Web3 安全工程师 / 智能合约审计师](./02-role-specific-paths/01-developer-engineer-paths/05-web3-security-auditor-engineer/)
+        *   [Web3 数据工程师/分析师](./02-role-specific-paths/01-developer-engineer-paths/06-web3-data-engineer-analyst/)
+        *   [区块链核心/协议工程师](./02-role-specific-paths/01-developer-engineer-paths/07-core-blockchain-protocol-engineer/)
+        *   [AI + Web3 工程师](./02-role-specific-paths/01-developer-engineer-paths/08-ai-web3-engineer/)
+    *   **[产品与项目管理岗位](./02-role-specific-paths/02-product-project-management-paths/)**
+        *   [Web3 产品经理](./02-role-specific-paths/02-product-project-management-paths/01-web3-product-manager)
+        *   [Web3 项目经理](./02-role-specific-paths/02-product-project-management-paths/02-web3-project-manager)
+    *   **[市场与社区运营岗位](./02-role-specific-paths/03-marketing-community-paths/)**
+        *   [Web3 市场营销专家](./02-role-specific-paths/03-marketing-community-paths/01-web3-marketing-specialist/)
+        *   [Web3 社区经理](./02-role-specific-paths/03-marketing-community-paths/02-web3-community-manager/)
+    *   **[设计与用户体验岗位](./02-role-specific-paths/04-design-ux-ui-paths/)**
+        *   [Web3 UX/UI 设计师](./02-role-specific-paths/04-design-ux-ui-paths/01-web3-ux-ui-designer/)
+    *   **[研究与分析岗位](./02-role-specific-paths/05-research-analysis-paths/)**
+        *   [Web3 研究员/分析师](./02-role-specific-paths/05-business-legal-research-paths/01-web3-researcher-analyst/)
 
 ## 💬 加入 VitaFlux 社区
 
